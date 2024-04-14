@@ -1,0 +1,17 @@
+/* Footer styles */
+.footer {
+  background-color: #f8f9fa; /* Light gray background */
+  color: #6c757d; /* Dark gray text color */
+  position: absolute; /* Absolute positioning */
+  bottom: 0; /* Stick to the bottom of the page */
+  width: 100%; /* Full width */
+  text-align: center; /* Center-align text */
+}
+
+.footer a {
+  color: #6c757d; /* Dark gray text color for links */
+}
+
+.footer a:hover {
+  color: #007bff; /* Blue text color for links on hover */
+}
